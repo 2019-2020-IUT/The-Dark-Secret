@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PERSONNE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtC">C</string>
+    <string name="txtCpp">C++</string>
+    <string name="txtJava">Java</string>
+    <string name="txtHomme">Homme</string>
+    <string name="txtFemme">Femme</string>
+    <string name="txtNom">Nom</string>
+    <string name="txtValider">Valider</string>
+
+</resources>

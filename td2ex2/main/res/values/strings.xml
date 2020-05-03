@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TDAnimation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtBtFondu">Fondu</string>
+    <string name="txtBtRetrecissement">Rétrécissement</string>
+    <string name="txtBtSortie">Sortie</string>
+    <string name="txtBtFonduRetrecissement">Fondu + Agrandissement</string>
+    <string name="txtBtTV">TV off</string>
+    <string name="txtBtReapparition">Réapparition</string>
+
+</resources>
